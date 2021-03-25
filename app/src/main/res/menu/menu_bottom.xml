@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/reviewList"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="맛집리뷰" />
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="맛지도" />
+    <item
+        android:id="@+id/time"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="예약현황" />
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="즐겨찾기" />
+</menu>
