@@ -28,16 +28,16 @@
 <div style="text-align:center"><img src=".readme_img/design2.png" alt="" /></div>
 
 # 실행화면
-|어플 실행시 로고 표시(스플래쉬 화면)|회원가입 화면 확인|
+|어플 실행시 로고 표시(스플래쉬 화면)|회원가입 화면|
 :-------------------------:|:-------------------------:
 |![preview1](/.readme_img/preview1.png)|![preview1](/.readme_img/preview2.png)|
 |맛집리스트 화면|카테고리를 통해 검색 했을 경우|
 |![preview1](/.readme_img/preview3.png)|![preview1](/.readme_img/preview4.png)|
-|가게명으로 검색했을 경우|예약하기 화면에서 입력 확인|
+|가게명으로 검색했을 경우|예약하기 화면에서 입력|
 |![preview1](/.readme_img/preview5.png)|![preview1](/.readme_img/preview6.png)|
 |예약되었을 경우 메시지 표시|예약 되었을 경우 예약현황 확인|
 |![preview1](/.readme_img/preview7.png)|![preview1](/.readme_img/preview8.png)|
-|후기 화면에서 입력 확인|후기 작성시 메시지 표시|
+|후기 입력 화면|후기 작성시 메시지 표시|
 |![preview1](/.readme_img/preview9.png)|![preview1](/.readme_img/preview10.png)|
 |후기 작성후 상세정보에서 후기표시 확인|즐겨찾기 추가했을 경우 메시지 표시|
 |![preview1](/.readme_img/preview11.png)|![preview1](/.readme_img/preview12.png)|
