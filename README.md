@@ -6,7 +6,7 @@
 
 - 제작기간 : 2주 ~ 3주 (거의 주말에만..)
 
-- 사용기술 : Retrofit2, Google Map api
+- 사용기술 : Retrofit2, Picasso, Google Map api
 
 # 어플 주요기능
 
