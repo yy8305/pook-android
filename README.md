@@ -1,10 +1,8 @@
-# 개요 (Overview)
+# Overview
 
-- 해당 프로젝트는 맛집리뷰 어플(Only Android) 입니다.  
+- 맛집리뷰 어플(Only Android) 입니다.  
 
-- [api 서버](https://github.com/yy8305/pook-android-api_server-python_flask)는 따로 만들어서 제작하였습니다.
-
-- 제작기간 : 2주 ~ 3주 (거의 주말에만..)
+- [api 서버](https://github.com/yy8305/pook-android-api_server-python_flask)는 따로 만들어서 제작
 
 - 사용기술 : Retrofit2, Picasso, Google Map api
 
